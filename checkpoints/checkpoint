@@ -1,0 +1,2 @@
+model_checkpoint_path: "seq2seq-4805"
+all_model_checkpoint_paths: "seq2seq-4805"
