@@ -6,7 +6,9 @@ The problem of web attack detection is considered in terms of anomaly detection.
 
 
 ## Model
-The step-by-step solution is presented in [seq2seq.ipynb](seq2seq.ipynb) that contains the main stages such as a model initialization, training, validation, prediction and results.
+The step-by-step solution is presented in [seq2seq.ipynb](seq2seq.ipynb) that contains the main stages such as a model initialization, training, validation, prediction and results. 
+
+Unfortunately, github ui doesn't correctly visualize cell output with colored malicious parts of requests. So, we suggest to download the notebook or use this [link](https://nbviewer.jupyter.org/github/PositiveTechnologies/seq2seq-web-attack-detection/blob/master/seq2seq.ipynb) for correctly displaying cells outputs.
 
 
 ## Dataset
