@@ -4,7 +4,7 @@ This is the implementation of the Seq2Seq model for web attack detection. The Se
 
 The problem of web attack detection is considered in terms of anomaly detection. On the training step the model is given only benign HTTP requests. On the testing step the model determines whether a received request is anomalous or not.
 
-Check out our [slides](/slides/detecting_web_attacks_rnn.pdf).
+Check out our [slides](/slides/detecting_web_attacks_rnn.pdf) and a post at [AI Village](https://aivillage.org/posts/detecting-web-attacks-rnn/) ([DEFCON 26](https://www.defcon.org/)).
 
 ## Model
 The step-by-step solution is presented in [seq2seq.ipynb](seq2seq.ipynb) that contains the main stages such as a model initialization, training, validation, prediction and results.
