@@ -20,7 +20,7 @@ The dataset contains data with 21991 benign and 1097 anomalous HTTP requests fro
 
 This repository contains environment.yml so it can be dockerized using [jupyter/repo2docker](https://github.com/jupyter/repo2docker). We have already dockerized it for you and you can run this playbook by
 
-```
+```bash
 docker run -it  -p 8888:8888 montekki/seq2seq-web-attack-detection:latest  jupyter notebook --ip=0.0.0.0
 ```
 
