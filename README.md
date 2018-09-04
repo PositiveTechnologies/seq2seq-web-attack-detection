@@ -17,6 +17,7 @@ The dataset contains data with 21991 benign and 1097 anomalous HTTP requests fro
 
 
 ## Running
+Please make sure that you have the same [requirements](requirements.txt) and python 2.7.*
 
 This repository contains environment.yml so it can be dockerized using [jupyter/repo2docker](https://github.com/jupyter/repo2docker). We have already dockerized it for you and you can run this playbook by
 
